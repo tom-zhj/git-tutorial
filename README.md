@@ -1,4 +1,4 @@
-# Git �̳�
+# Git ½Ì³Ì
 
 - feature-A
 
@@ -6,3 +6,4 @@
 
 -feature-C
 
+- Add a Feature user for Issue
